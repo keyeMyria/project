@@ -1,0 +1,7 @@
+
+
+
+#邮箱验证验证过期时间
+VERIFY_EMAIL_TOKEN_EXPIRES = 60*60*24
+
+
